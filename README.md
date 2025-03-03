@@ -7,6 +7,9 @@ Pebble 2 Flexible Replacement Buttons for P2HR and P2SE smartwatches.
 Pebble charging docks
 - Modelled for SLS Nylon printing
 
+Pebble 2 cases & bumpers
+- Modelled for SLS or MJF Nylon printing
+
 All the models in this repository are made available under a Creative Commons Attribution-NonCommercial-ShareAlike licence, as per this link:  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode 
 
 The following text does not replace the licence itself, but is intended to provide a brief summary.  You are free to:
